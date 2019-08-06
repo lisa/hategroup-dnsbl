@@ -128,6 +128,8 @@
 **.keystone2001united.wordpress.com
 **.kingidentity.com
 **.kinsmanredeemer.com
+**.kiwifarms.pl
+**.kiwifarms.nl
 **.kiwifarms.net
 **.knightsofthewhitedisciples.com
 **.kuklosknights.com
@@ -246,5 +248,5 @@
 **.4channel.org
 **.8ch.net
 **.8chan.co
+**.8chan.org
 **.foxnews.com
-**.kiwifarms.net
